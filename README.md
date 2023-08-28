@@ -1,2 +1,2 @@
-# BookEvent
+# Event Booking Management
 xyz
